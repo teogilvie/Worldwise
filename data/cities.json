@@ -1,0 +1,64 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": 73930385
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": 17806751
+    },
+    {
+      "cityName": "Piedras Blancas Barrio",
+      "country": "Puerto Rico",
+      "emoji": "🇵🇷",
+      "date": "2023-07-19T21:17:32.259Z",
+      "notes": "",
+      "position": {
+        "lat": "18.358435764455578",
+        "lng": "-67.19375610351564"
+      },
+      "id": 73930386
+    },
+    {
+      "cityName": "San Juan",
+      "country": "Puerto Rico",
+      "emoji": "🇵🇷",
+      "date": "2023-07-19T21:19:18.193Z",
+      "notes": "",
+      "position": {
+        "lat": "18.359739156553697",
+        "lng": "-66.10748291015626"
+      },
+      "id": 73930387
+    },
+    {
+      "cityName": "Placetas",
+      "country": "Cuba",
+      "emoji": "🇨🇺",
+      "date": "2023-07-19T21:21:02.706Z",
+      "notes": "",
+      "position": {
+        "lat": "22.268764039073968",
+        "lng": "-79.80468750000001"
+      },
+      "id": 73930388
+    }
+  ]
+}
